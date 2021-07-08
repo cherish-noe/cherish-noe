@@ -2,7 +2,7 @@
 
 I'm Cherish (Myat Noe Htet).
 
-[![](https://img.shields.io/badge/-My%20Website-peru)](https://myatnoehtetmm.wixsite.com/index)
+[![](https://img.shields.io/badge/-Website-peru)](https://myatnoehtetmm.wixsite.com/index)
 [![](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/myatnoehtet/)
 
 
