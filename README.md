@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Cherish Noe (Myat Noe Htet).
+
 ![](profile.gif)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
