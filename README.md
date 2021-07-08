@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Profile](https://media.giphy.com/media/KrqEN40DYV2juAUwI7/giphy.gif)
+![My Profile](https://gph.is/g/E3kD8kl)
 
 <!---
 cherish-noe/cherish-noe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
