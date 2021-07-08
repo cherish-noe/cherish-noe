@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "https://media.giphy.com/media/KrqEN40DYV2juAUwI7/giphy.gif">
+![My Profile](https://github.com/cherish-noe/cherish-noe.git)
 
 <!---
 cherish-noe/cherish-noe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
