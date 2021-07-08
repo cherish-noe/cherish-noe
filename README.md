@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/KrqEN40DYV2juAUwI7/giphy.gif)
+![](profile.gif)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
