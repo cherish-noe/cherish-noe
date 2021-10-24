@@ -6,7 +6,9 @@ I'm Cherish (Myat Noe Htet).
 [![](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/myatnoehtet/)
 
 
+<!---
 ![](profile.gif)
+--->
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
