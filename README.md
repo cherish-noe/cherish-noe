@@ -12,17 +12,23 @@ I'm Cherish (Myat Noe Htet).
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![MySQL](https://img.shields.io/badge/-My%20SQL-000?&logo=MySQL&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=fff)
+<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=BigQuery)
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ### Tools
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-Bi)
-![Tableau Prep](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+<br>
+![Tableau Prep](https://img.shields.io/badge/-Tableau%20Prep-000?&logo=Tableau-Prep)
+![KNIME](https://img.shields.io/badge/-KNIME-000?&logo=Knime)
 
 
 <!---
