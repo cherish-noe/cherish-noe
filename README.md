@@ -13,8 +13,10 @@ I'm Cherish (Myat Noe Htet).
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=fff)
-<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+<br>
+![Hive](https://img.shields.io/badge/-Hive-000?&logo=Hive)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=Apache-Spark)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=BigQuery)
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
